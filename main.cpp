@@ -1,6 +1,5 @@
 #include <iostream>
 #include <vector>
-#include <QCoreApplication>
 #include <sstream>
 using namespace std;
 
